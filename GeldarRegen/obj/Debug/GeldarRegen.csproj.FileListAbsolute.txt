@@ -1,0 +1,2 @@
+C:\Users\Máté\Documents\GeldarRegen\GeldarRegen\obj\Debug\GeldarRegen.csprojResolveAssemblyReference.cache
+C:\Users\Máté\Documents\GeldarRegen\GeldarRegen\obj\Debug\GeldarRegen.csproj.CoreCompileInputs.cache
